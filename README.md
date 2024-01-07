@@ -20,3 +20,5 @@ Panel Certificate Private Key Path:
 ```
 
 Set it in the settings and hit save and restart panel so that TLS is installed for you
+
+Buy Me a Coffee (Tron): TDCnjdujnHjcX6k8Mb7U6HpA27g8ZskCPi
